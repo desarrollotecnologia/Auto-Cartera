@@ -1,0 +1,12 @@
+﻿__pycache__/
+*.pyc
+.venv/
+venv/
+.env
+output/
+templates/archivo/
+*.xlsx
+!templates/plantilla_informe_cartera.xlsx
+_*.txt
+.DS_Store
+Thumbs.db

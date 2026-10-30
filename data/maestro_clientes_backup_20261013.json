@@ -1,0 +1,491 @@
+{
+  "890107487": {
+    "nombre": "SUPERTIENDAS Y DROGUERIA OLIMPICA S.A.",
+    "plazo": 60,
+    "condicion_pago": "VENCIMIENTO 60 DIAS",
+    "cupo": 500000000
+  },
+  "900319753": {
+    "nombre": "PRICESMART COLOMBIA S.A.S.",
+    "plazo": 30,
+    "condicion_pago": "VENCIMIENTO 30 DIAS",
+    "cupo": 500000000
+  },
+  "900329121": {
+    "nombre": "INVERSIONES ZULUAGA RUEDA S.A.S.",
+    "plazo": 30
+  },
+  "900326452": {
+    "nombre": "CARNES SANTACRUZ S.A.S",
+    "plazo": 15,
+    "condicion_pago": "VENCIMIENTO 15 DIAS",
+    "cupo": 60000000
+  },
+  "804016124": {
+    "nombre": "HARINAGRO S.A.S",
+    "plazo": 15
+  },
+  "900119072": {
+    "nombre": "SUPERMERCADOS MAS POR MENOS S.A.S.",
+    "plazo": 30,
+    "condicion_pago": "VENCIMIENTO 30 DIAS",
+    "cupo": 60000000
+  },
+  "901162294": {
+    "nombre": "SUPERCARNES JEREMIAS S.A.S.",
+    "plazo": 30,
+    "condicion_pago": "VENCIMIENTO 30 DIAS",
+    "cupo": 60000000
+  },
+  "63507417": {
+    "nombre": "SANCHEZ CALDERON MIREYA",
+    "plazo": 3
+  },
+  "900040299": {
+    "nombre": "ATLANTIC FS S.A.S.",
+    "plazo": 30,
+    "condicion_pago": "VENCIMIENTO 30 DIAS",
+    "cupo": 100000000
+  },
+  "800079603": {
+    "nombre": "SERVICIOS DE ALIMENTACION N.P S.A",
+    "plazo": 30,
+    "condicion_pago": "VENCIMIENTO 30 DIAS",
+    "cupo": 200000000
+  },
+  "91505856": {
+    "nombre": "ARDILA LOPEZ EDINSON ARNULFO",
+    "plazo": 8,
+    "principal": "ALEX DELGADO"
+  },
+  "901354603": {
+    "nombre": "INVERSIONES KHIMAIRA SAS",
+    "plazo": 30,
+    "condicion_pago": "VENCIMIENTO 30 DIAS - RESPALDO GARANTISA",
+    "cupo": 60000000
+  },
+  "901183139": {
+    "nombre": "SANIMAX DE COLOMBIA S.A.S",
+    "plazo": 15
+  },
+  "1014236627": {
+    "nombre": "QUIROGA CELY LIZETH JOHANA",
+    "plazo": 30,
+    "condicion_pago": "VENCIMIENTO 30 DIAS - RESPALDO GARANTISA",
+    "cupo": 50000000
+  },
+  "91244390": {
+    "nombre": "RUEDA RODRIGUEZ JUAN CARLOS",
+    "plazo": "CJ"
+  },
+  "800119647": {
+    "nombre": "PETROCASINOS S.A.",
+    "plazo": 30
+  },
+  "1005340085": {
+    "nombre": "DELGADO TAMAYO BRAYAN ADOLFO",
+    "plazo": 8,
+    "principal": "CAMILO VARGAS"
+  },
+  "901406008": {
+    "nombre": "DISTRIBUIDORA EL SEÑOR DE LAS CARNES S.A.S",
+    "plazo": 30,
+    "condicion_pago": "COBRO JURIDICO",
+    "cupo": 0
+  },
+  "63307006": {
+    "nombre": "LOZADA DE CACUA RUTH",
+    "plazo": 15
+  },
+  "800168533": {
+    "nombre": "GRUPO MANZANARES S.A.S",
+    "plazo": 30
+  },
+  "13644716": {
+    "nombre": "BENITEZ GARNICA CEFERINO",
+    "plazo": 8,
+    "principal": "EDGAR BENITEZ"
+  },
+  "890205142": {
+    "nombre": "DISTRAVES S.A.S",
+    "plazo": 30,
+    "condicion_pago": "VENCIMIENTO 15 DIAS",
+    "cupo": 20000000
+  },
+  "91521221": {
+    "nombre": "JAIMES RINCON CARLOS ANDRES",
+    "plazo": 8,
+    "principal": "YERSON VARGAS"
+  },
+  "901595935": {
+    "nombre": "COMPAÑIA ALROCK S.A.S",
+    "plazo": 0,
+    "condicion_pago": "VENCIMIENTO 15 DIAS - RESPALDO GARANTISA",
+    "cupo": 20000000
+  },
+  "901314598": {
+    "nombre": "COMPAÑIA DE ALIMENTOS BIFF S.A.S.",
+    "plazo": 30,
+    "condicion_pago": "VENCIMIENTO 30 DIAS - RESPALDO GARANTISA",
+    "cupo": 60000000
+  },
+  "901382343": {
+    "nombre": "METYS SAS",
+    "plazo": 30,
+    "condicion_pago": "VENCIMIENTO 30 DIAS - RESPALDO GARANTISA",
+    "cupo": 20000000
+  },
+  "1095836235": {
+    "nombre": "ROMERO OSORIO JOHN IGNACIO",
+    "plazo": 8,
+    "principal": "IGNACIO ROMERO"
+  },
+  "1098667169": {
+    "nombre": "BUNGEROTH BELTRAN CINTHYA CATALINA",
+    "plazo": 30
+  },
+  "91474246": {
+    "nombre": "ORTIZ CASTRO BELISARIO",
+    "plazo": 8
+  },
+  "63311620": {
+    "nombre": "JIMENEZ SEDANO ANA LUCIA",
+    "plazo": 8
+  },
+  "1098770982": {
+    "nombre": "CORREDOR CABRERA PABLO ALEXANDER",
+    "plazo": 8
+  },
+  "900830307": {
+    "nombre": "COMERCIALIZADORA DERIVADOS CARNICOS S.A.S",
+    "plazo": 8
+  },
+  "901577376": {
+    "nombre": "BUFASAN S.A.S.",
+    "plazo": 8
+  },
+  "3188733": {
+    "nombre": "UMBARILA MALAGON YEISON EFREN",
+    "plazo": 30,
+    "condicion_pago": "VENCIMIENTO 30 DIAS",
+    "cupo": 20000000
+  },
+  "901871697": {
+    "nombre": "JUANCHO POLO PARRILLA S.A.S.",
+    "plazo": 30,
+    "condicion_pago": "VENCIMIENTO 30 DIAS",
+    "cupo": 20000000
+  },
+  "901681658": {
+    "nombre": "COMERCIALIZADORA DE CARNES QUALITY SAS",
+    "plazo": 15,
+    "condicion_pago": "VENCIMIENTO 15 DIAS",
+    "cupo": 20000000
+  },
+  "1101048221": {
+    "nombre": "LOZANO GALVIS CAMILO",
+    "plazo": 1
+  },
+  "37842211": {
+    "nombre": "RODRIGUEZ QUINTERO KEILA",
+    "plazo": 8,
+    "principal": "ESPERANZA PATIÑO"
+  },
+  "91106959": {
+    "nombre": "OREJARENA CASTELLANOS JAVIER RICARDO",
+    "plazo": 8
+  },
+  "91495607": {
+    "nombre": "BALLESTEROS ROMERO RAMON ARTURO",
+    "plazo": 1
+  },
+  "900284877": {
+    "nombre": "SALSAMENTARIA RICOSAN S.A.S",
+    "plazo": 1
+  },
+  "901406448": {
+    "nombre": "PRODUCTORA AGROINDUSTRIAL DE COLOMBIA - PROAINCO S.A.S",
+    "plazo": 30
+  },
+  "91450839": {
+    "nombre": "MUÑOZ BARRAGAN MILTON",
+    "plazo": 8
+  },
+  "91509956": {
+    "nombre": "SERRANO RAMIREZ JAVIER MAURICIO",
+    "plazo": 1
+  },
+  "91464790": {
+    "nombre": "AVILA MONSALVE REINALDO",
+    "plazo": 8
+  },
+  "91225135": {
+    "nombre": "JAIMES PALENCIA HUGO",
+    "plazo": 8
+  },
+  "52768491": {
+    "nombre": "PORRAS JOBEN MARILUZ",
+    "plazo": 1,
+    "principal": "ANDERSON PATIÑO"
+  },
+  "901224859": {
+    "nombre": "PRODUCTOS OFACOL S.A.S.",
+    "plazo": 8
+  },
+  "13928162": {
+    "nombre": "ORTIZ CARDENAS NESTOR IVAN",
+    "plazo": 1
+  },
+  "902033658": {
+    "nombre": "DRISTRIBUDORA DE CARNES AJR S.A.S",
+    "plazo": 8,
+    "condicion_pago": "CONTADO",
+    "cupo": 0
+  },
+  "91451579": {
+    "nombre": "CORREDOR CACERES PEDRO JULIO",
+    "plazo": 1
+  },
+  "1005346757": {
+    "nombre": "OSORIO OLAVE HENRY ANDRES",
+    "plazo": 1,
+    "principal": "ALIRIO OSORIO"
+  },
+  "13873704": {
+    "nombre": "ROJAS CHAPARRO DAVID",
+    "plazo": 8,
+    "principal": "FABIO HEREDIA"
+  },
+  "900835433": {
+    "nombre": "SG PET SAS",
+    "plazo": 1
+  },
+  "800228007": {
+    "nombre": "MERCAGAN S.A",
+    "plazo": 1
+  },
+  "13743074": {
+    "nombre": "BARBOSA FANDIÑO JOSE ALFREDO",
+    "plazo": 1
+  },
+  "1065232795": {
+    "nombre": "PINEDA PABON KAREN DAYANA",
+    "plazo": 1
+  },
+  "91295227": {
+    "nombre": "BLANCO DUARTE FORTUNATO",
+    "plazo": 8
+  },
+  "901521926": {
+    "nombre": "NUTRESAN SAS",
+    "plazo": 1
+  },
+  "901421777": {
+    "nombre": "SABOR SALVAJE SAS",
+    "plazo": 30,
+    "condicion_pago": "VENCIMIENTO 30 DIAS",
+    "cupo": 20000000
+  },
+  "91281645": {
+    "nombre": "RUIZ ARIZA JORGE OMAR",
+    "plazo": 1
+  },
+  "1095787312": {
+    "nombre": "DUEÑAS MARTINEZ BOLGUER JAVIER",
+    "plazo": 1
+  },
+  "900855576": {
+    "nombre": "GENETICS MARKET SAS",
+    "plazo": 1
+  },
+  "91465768": {
+    "nombre": "GARCIA GUEVARA LUSVIN ALBERTO",
+    "plazo": 1
+  },
+  "91346946": {
+    "nombre": "ROJAS JAIMES RAMON",
+    "plazo": 1
+  },
+  "1098770348": {
+    "nombre": "HERNANDEZ GARCIA JUAN JOSE",
+    "plazo": 1
+  },
+  "5735473": {
+    "nombre": "RUEDA MEDINA JOSE ANTONIO",
+    "plazo": 1
+  },
+  "901138522": {
+    "nombre": "TECNOLOGIAS AGROPECUARIAS DE COLOMBIA S.A.S."
+  },
+  "91207731": {
+    "nombre": "VARGAS BLANCO REINALDO"
+  },
+  "901738504": {
+    "nombre": "PET CANDIES BARN S.A.S."
+  },
+  "63479523": {
+    "nombre": "GOMEZ QUINTERO JUDITH TORCOROMA"
+  },
+  "900087044": {
+    "nombre": "COLBEEF S.A.S"
+  },
+  "804000601": {
+    "nombre": "CLUB CAMPESTRE DE BUCARAMANGA S.A"
+  },
+  "1098745483": {
+    "nombre": "VARGAS NIÑO YERSON REYNALDO"
+  },
+  "2032056": {
+    "nombre": "JAIMES JAIMES LUIS JOSE"
+  },
+  "900127675": {
+    "nombre": "LOGISTICA INSTITUCIONAL COLOMBIANA S.A.S"
+  },
+  "1005327215": {
+    "nombre": "GUTIERREZ SUAREZ CAMILO ANDRES"
+  },
+  "91479165": {
+    "nombre": "GANDUR VARGAS OSCAR ALEJANDRO"
+  },
+  "88035437": {
+    "nombre": "MORA RANGEL ALEX FABIAN"
+  },
+  "1098754711": {
+    "nombre": "ARGUELLO QUIÑONEZ SARY RUTH"
+  },
+  "1099367008": {
+    "nombre": "ALVAREZ DELGADO YENNY PAOLA"
+  },
+  "1098672501": {
+    "nombre": "PINZON COLMENARES YESSICA ANDREA"
+  },
+  "91497884": {
+    "nombre": "RIVERA AGUILAR JOSE JULIAN"
+  },
+  "37543399": {
+    "nombre": "BARON SERRANO YANNET"
+  },
+  "16753483": {
+    "nombre": "CAMACHO FAJARDO JORGE ALBERTO"
+  },
+  "91271974": {
+    "nombre": "BELTRAN QUINTERO SIMON"
+  },
+  "91211717": {
+    "nombre": "RUIZ RODRIGUEZ LUIS HERNAN"
+  },
+  "900585633": {
+    "nombre": "RESTAURANTE MERCAGAN PARRILLA S.A.S"
+  },
+  "91468150": {
+    "nombre": "AGUILAR RODRIGUEZ CARLOS ALBERTO"
+  },
+  "901705145": {
+    "nombre": "COLOMBIAN PROTEIN TRADING S.A.S."
+  },
+  "13643141": {
+    "nombre": "RUEDA CASTELLANOS WILSON JOSE"
+  },
+  "91343432": {
+    "nombre": "OSORIO ALVAREZ JORGE ENRIQUE"
+  },
+  "91346393": {
+    "nombre": "ARCHILA NIEVES JOSE ANTONIO"
+  },
+  "91269186": {
+    "nombre": "JAIMES BERMUDEZ JOSE MARIA"
+  },
+  "800035047": {
+    "nombre": "ASOCIACION CHUCUREÑA DE EXPENDEDORES DE CARNE ACHEC"
+  },
+  "13717816": {
+    "nombre": "OVIEDO ACEVEDO ALEXANDER"
+  },
+  "91341499": {
+    "nombre": "JIMENEZ OCHOA JOSE LUIS"
+  },
+  "63505770": {
+    "nombre": "PEÑA NIDIA RUTH"
+  },
+  "91153559": {
+    "nombre": "MORENO RUEDA JAIRO"
+  },
+  "13375102": {
+    "nombre": "PAEZ REYES MANUEL RICARDO"
+  },
+  "1095925395": {
+    "nombre": "BARCENAS GARCIA JUAN SEBASTIAN"
+  },
+  "1102381627": {
+    "nombre": "MANOSALVA CERON YURLEY STEFANY"
+  },
+  "901243197": {
+    "nombre": "COMPAÑÍA TOTAL FOOD S.A.S."
+  },
+  "13537059": {
+    "nombre": "ORTIZ MURILLO LUIS ENRIQUE"
+  },
+  "5651718": {
+    "nombre": "TARAZONA TARAZONA OSCAR HUMBERTO"
+  },
+  "901806091": {
+    "nombre": "CARNES PREMIER DE COLOMBIA SAS"
+  },
+  "5702245": {
+    "nombre": "SALAMANCA BENITO"
+  },
+  "5619874": {
+    "nombre": "SIERRA PEÑA OMAR"
+  },
+  "901080528": {
+    "nombre": "LA CARNICERIA BUTCHER SHOP S.A.S."
+  },
+  "1005105225": {
+    "nombre": "VARGAS ARTEAGA SILDANA JULIETH"
+  },
+  "91354216": {
+    "nombre": "RAMIREZ PRADA PABLO ANTONIO"
+  },
+  "901357317": {
+    "nombre": "DELICARNES COL S.A.S"
+  },
+  "91345617": {
+    "nombre": "MORALES ALVARADO IGNACIO"
+  },
+  "13701187": {
+    "nombre": "AMAYA RINCON ALFONSO"
+  },
+  "13883905": {
+    "nombre": "CRUZ LEONIDAS"
+  },
+  "860513247": {
+    "nombre": "INDUSTRIAL HOTELERA Y ALIMENTOS S.A.S. DIALIMENTOS S.A.S."
+  },
+  "1099204232": {
+    "nombre": "ECHEVERRY HERNANDEZ JUAN DAVID"
+  },
+  "91078112": {
+    "nombre": "BENITEZ RODRIGUEZ EDGAR AUGUSTO"
+  },
+  "6678175": {
+    "nombre": "LOPEZ BARAJAS MARIO"
+  },
+  "1096211126": {
+    "nombre": "SANCHEZ ARIAS DIEGO ARMANDO"
+  },
+  "1005327214": {
+    "nombre": "GUTIERREZ SUAREZ LUIS FERNANDO"
+  },
+  "901725434": {
+    "nombre": "INVERSIONES RESTREPO JS S.A.S."
+  },
+  "1005325293": {
+    "nombre": "GARCIA MARTINEZ EDGAR FABIAN"
+  },
+  "1098680946": {
+    "nombre": "MALDONADO CONDE ANGELA PAOLA"
+  },
+  "1098786104": {
+    "nombre": "PEREZ SANCHEZ JORGE ALONSO"
+  }
+}
